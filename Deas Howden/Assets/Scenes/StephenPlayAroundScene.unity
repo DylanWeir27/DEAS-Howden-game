@@ -758,7 +758,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 542675383}
   m_LocalRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071069}
-  m_LocalPosition: {x: 4.09, y: 0.66, z: 0.09}
+  m_LocalPosition: {x: 4.09, y: 0.66, z: -1.26}
   m_LocalScale: {x: 5.22134, y: 1, z: 0.27131}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1526,7 +1526,7 @@ NavMeshAgent:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1133071034}
   m_Enabled: 1
-  m_AgentTypeID: 0
+  m_AgentTypeID: -1372625422
   m_Radius: 0.5000001
   m_Speed: 3.5
   m_Acceleration: 8
@@ -1801,7 +1801,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1147953570}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.79, y: 0.66, z: -3.84}
+  m_LocalPosition: {x: -1.73, y: 0.66, z: -3.84}
   m_LocalScale: {x: 7.7449, y: 1, z: 0.27131}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2126,7 +2126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3df27b9289d1e8c4fb82e0df4f4673ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AgentTypeID: 0
+  m_AgentTypeID: -1372625422
   m_CollectObjects: 0
   m_Size: {x: 10, y: 10, z: 10}
   m_Center: {x: 0, y: 2, z: 0}
@@ -2140,7 +2140,7 @@ MonoBehaviour:
   m_OverrideTileSize: 0
   m_TileSize: 256
   m_OverrideVoxelSize: 0
-  m_VoxelSize: 0.083333336
+  m_VoxelSize: 0.1
   m_BuildHeightMesh: 0
   m_NavMeshData: {fileID: 23800000, guid: ad3381036f597ae4a91826650fd8e9eb, type: 2}
 --- !u!1 &1497635204
